@@ -10,3 +10,4 @@ Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada
 Berikut daftar Volunter yang diterima:
 
 * Oon didynefs, [oo.or.id](https://oo.or.id).
+* Spynotte5, [Linkedin](https://linkedin.com/in/spynotte5/).
